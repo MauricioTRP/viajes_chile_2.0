@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+// 1.- ABSTRACTS
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+// 2.- VENDORS
+@import "vendors/bootstrap";
+
+// 3.- BASE
+
+// 4.- LAYOUT
+
+// 5.- COMPONENTS
+@import "components/carousel";
+@import "components/card";
+@import "components/testimonio";
+
+// 6.- PAGES
+
+// 7.- THEMES
+
+// 8.- SHAAME 🥹
+@import "shame/shame";
